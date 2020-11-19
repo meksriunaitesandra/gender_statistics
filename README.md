@@ -17,7 +17,7 @@ _Link: https://databank.worldbank.org/source/gender-statistics_
 
 #### Contents of data
 * Year (every 5 year from 1960 to 2015, plus 2018 and / or last available year)
-* Countries (3 Baltic countries and Ukraine, Russian Federation, Ukraine, Poland; also groupes of low, middle and high income countries)
+* Countries (3 Baltic countries and Ukraine, Russian Federation, Poland; also groups of low, middle and high income countries)
 * Indicators (in general population and by gender):
     * Life expectancy (at birth and at 60)
     * Birth and death rates, crude
