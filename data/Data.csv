@@ -1,0 +1,406 @@
+﻿Country,CountryC,SeriesN,SeriesC,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2018,last_av
+Lithuania,LTU,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,..,26.2,28.2,30.9,32.7,32.7
+Lithuania,LTU,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,..,28.6,30.8,33.6,35.2999999999999,35.2999999999999
+Lithuania,LTU,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,0,2,6,20,32,33
+Lithuania,LTU,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,0,4,8,21,34,36
+Lithuania,LTU,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,22.5,18.1,17.7,15.7,15.2,16.5,15.4,11.4,9.8,8.9,9.9,10.8,10,10
+Lithuania,LTU,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Lithuania,LTU,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Lithuania,LTU,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.8,7.9,8.9,9.5,10.5,11.1,10.8,12.5,11.1,13.2,13.6,14.4,14.1,14.1
+Lithuania,LTU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.56,2.23,2.4,2.18,1.99,2.08,2.03,1.55,1.39,1.29,1.5,1.7,1.63,1.63
+Lithuania,LTU,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,99.14717,..,99.83348
+Lithuania,LTU,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,98.39621,..,98.72494
+Lithuania,LTU,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Lithuania,LTU,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Lithuania,LTU,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,24.489466
+Lithuania,LTU,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,17.51417
+Lithuania,LTU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.9,74.68,75.03,75.6,75.64,75.49,76.17,75.04,77.5,77.4,78.8,79.7,80.7,80.7
+Lithuania,LTU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.94,68.13,66.78,66.36,65.57,65.75,66.39,63.26,66.8,65.4,68,69.2,70.9,70.9
+Lithuania,LTU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.8332366943359
+Lithuania,LTU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.794189453125
+Lithuania,LTU,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,17,14,10,9,..,8
+Lithuania,LTU,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,15.4,15.2,13.8,11.9,10.5,10.6,7.7,6.6,4.5,3.7,3,2.7
+Lithuania,LTU,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,20.2,20.1,18.1,15.5,13.2,13.2,9.4,7.9,5.3,4.3,3.5,3.2
+Lithuania,LTU,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Lithuania,LTU,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Lithuania,LTU,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,17.4,19.8,21.9,23.5,24.4,25.1,25.8,26.6,27.6,..,27.8
+Lithuania,LTU,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,7.1,9.1,11.3,13.5,15.4,17.3,19.2,21.4,23.7,..,24.2
+Lithuania,LTU,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,45.1,48.4,51.1,53,53.9,54.4,54.9,55.6,56.4,..,56.5
+Lithuania,LTU,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,37.4,41.6,45.4,48.8,51.6,54.1,56.7,59.4,62.1,..,62.6
+Lithuania,LTU,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,93.2534103393555,101.794471740723,101.619346618652,99.4632797241211,100.726371765137,104.464637756348,104.464637756348
+Lithuania,LTU,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,93.3518295288086,102.006591796875,102.447372436523,99.2704467773438,100.74333190918,104.114852905273,104.114852905273
+Lithuania,LTU,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,20.3088578088578,18.2991860791468,16.9326480930484,17.1719955898567,17.3192340668762,17.2445255474453,17.1717171717172,17.6058686228743,..,17.6058686228743
+Lithuania,LTU,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,18.5314685314685,16.6713443727196,15.4720043278334,15.5457552370452,15.6901971991998,16.1192214111922,16.0638644509612,15.9053017672558,..,15.9053017672558
+Lithuania,LTU,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,62.5379981994629
+Lithuania,LTU,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,64.5695571899414
+Lithuania,LTU,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.056,..,..,..,1.05,1.057,1.058,1.058
+Lithuania,LTU,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,21.4,21.5,21.4,21.4,..,21.3
+Lithuania,LTU,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,53.1,47.7,42.8,38.7,..,38
+Lithuania,LTU,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,18.7,14.7,12.8,11.9,..,9.5
+Lithuania,LTU,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,87.2,77.6,66.1,61.7,..,58.1
+Lithuania,LTU,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,26,22,5.5,5.5,5.5
+Lithuania,LTU,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,26,22,5.5,5.5,5.5
+Lithuania,LTU,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,7.1,..,..,6.9
+Lithuania,LTU,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,24.9,..,..,24.9
+Lithuania,LTU,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,32.54662004662,34.4934044344653,35.7587232891534,35.7221609702315,35.8673906830523,36.2530413625304,36.6894753991528,36.378792930977,..,36.378792930977
+Lithuania,LTU,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,28.6130536130536,30.5360651136683,31.8366242899648,31.5600882028666,31.1231780508717,30.3832116788321,30.0749429781688,30.110036678893,..,30.110036678893
+Estonia,EST,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,24.5,..,..,..,33.6,33.6
+Estonia,EST,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,26.7,..,..,..,36.2999999999999,36.2999999999999
+Estonia,EST,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7,14.6,15.8,14.9,15,15.5,14.2,9.4,9.4,10.6,11.9,10.6,10.9,10.9
+Estonia,EST,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Estonia,EST,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Estonia,EST,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,10.5,10.4,11.2,11.6,12.3,12.7,12.4,14.5,13.2,12.8,11.9,11.6,11.9,11.9
+Estonia,EST,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.98,1.88,2.17,2.04,2.02,2.13,2.05,1.38,1.36,1.52,1.72,1.58,1.67,1.67
+Estonia,EST,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Estonia,EST,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Estonia,EST,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,24.831358
+Estonia,EST,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,18.9773509999999
+Estonia,EST,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.023,73.733,74.406,74.363,74.15,74.4,74.7,74.1,76,78.1,80.5,82.2,82.7,82.7
+Estonia,EST,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.979,65.503,65.681,64.754,63.911,64.6,64.5,61.3,65.1,67.3,70.6,73.2,74,74
+Estonia,EST,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,99.7600631713867,..,..,..,..,99.9094772338867
+Estonia,EST,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,99.7759475708008,..,..,..,..,99.8589782714844
+Estonia,EST,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,29,18,11,10,..,9
+Estonia,EST,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,..,15.4,13,12.1,10.8,7.6,5,3.2,2.2,1.8,1.7
+Estonia,EST,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,..,20,17,15.7,13.9,9.7,6.2,3.9,2.7,2.2,2
+Estonia,EST,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Estonia,EST,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,16.6,17.6,18.4,19,19.3,19.6,20.2,20.8,21.6,..,21.8
+Estonia,EST,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,7.2,8.5,9.9,11.4,12.8,14.3,16,17.9,19.9,..,20.3
+Estonia,EST,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,46.6,48,49,49.6,49.8,50,50.4,51,51.7,..,51.9
+Estonia,EST,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,38.6,41.4,44,46.4,48.7,51.1,53.7,56.4,59.1,..,59.6
+Estonia,EST,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,80.5378112792969,96.5632476806641,101.642356872559,99.2443771362305,99.0616607666016,95.4714736938477,95.4714736938477
+Estonia,EST,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,78.7850799560547,94.8370513916016,103.570190429688,101.948371887207,98.4860610961914,97.849006652832,97.849006652832
+Estonia,EST,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,15.9322033898305,15.2987524622456,14.9520766773163,15.4919748778786,15.8241758241758,16.0754716981132,16.320246343341,16.5625,..,16.5625
+Estonia,EST,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,14.3728813559322,13.9198949441891,13.8019169329073,14.2358688066992,14.7985347985348,15.2452830188679,15.5504234026174,15.9375,..,15.9375
+Estonia,EST,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,67.9827194213867
+Estonia,EST,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,66.4032135009766
+Estonia,EST,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.059,..,..,..,1.058,1.062,1.067,1.067
+Estonia,EST,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,26.9,26.2,25.4,24.8,..,24.5
+Estonia,EST,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,54.7,49.5,44.6,40.1,..,39.3
+Estonia,EST,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,12.7,8.3,6.6,5.3,..,6.6
+Estonia,EST,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,48.7,39,31.7,27.6,..,30.6
+Estonia,EST,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,35,6.5,3.5,3.5,3.5
+Estonia,EST,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,35,6.5,3.5,3.5,3.5
+Estonia,EST,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,5.5,..,..,4.9
+Estonia,EST,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,20.7,..,..,19.4
+Estonia,EST,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,37.7627118644068,38.2140512147078,38.2747603833866,38.2414515003489,38.0952380952381,37.7358490566038,37.3364126250962,37.03125,..,37.03125
+Estonia,EST,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,31.9322033898305,32.5673013788575,32.9712460063898,32.0307048150733,31.2820512820513,30.9433962264151,30.7929176289453,30.46875,..,30.46875
+Latvia,LVA,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,26.7,28.1,29.5,30.4,30.4,30.4
+Latvia,LVA,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,28.6,30.4,31.9,33.1,33.1,33.1
+Latvia,LVA,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,1,3,11,19,53,61
+Latvia,LVA,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,1,3,12,20,44,48
+Latvia,LVA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7,13.8,14.6,14.2,14.1,15.4,14.2,8.7,8.6,9.8,9.4,11.1,10,10
+Latvia,LVA,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Latvia,LVA,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Latvia,LVA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,10,10.1,11.3,12.2,12.8,13.2,13.1,15.7,13.6,14.6,14.3,14.4,15,15
+Latvia,LVA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.94,1.74,1.96,1.96,1.86,2.08,2.02,1.25,1.25,1.39,1.36,1.7,1.6,1.6
+Latvia,LVA,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,103.00565,..,99.4781
+Latvia,LVA,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,101.13893,..,100.05326
+Latvia,LVA,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Latvia,LVA,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Latvia,LVA,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,23.460905
+Latvia,LVA,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,17.1725719999999
+Latvia,LVA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.49,74.86,74.23,74.16,74.12,74.06,74.6,73.06,76,77.4,78.4,79.5,79.7,79.7
+Latvia,LVA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.26,66.79,65.65,63.94,63.75,64.75,64.2,60.04,64.9,65.6,68.8,69.7,70.1,70.1
+Latvia,LVA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,99.7097320556641,..,..,..,99.9064025878906,99.9064025878906
+Latvia,LVA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,99.793342590332,..,..,..,99.8683700561523,99.8683700561523
+Latvia,LVA,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,34,30,26,23,..,19
+Latvia,LVA,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,..,13.2,11.5,11.6,14,10.4,7.9,6,3.9,3,2.9
+Latvia,LVA,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,..,17.3,14.9,14.8,17.3,12.6,9.4,7,4.5,3.5,3.3
+Latvia,LVA,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Latvia,LVA,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Latvia,LVA,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,18,19.5,20.7,21.5,22.1,22.6,23.3,24.1,24.9,..,25.1
+Latvia,LVA,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,7.1,8.6,10.2,11.8,13.4,15,16.9,18.9,21.1,..,21.6
+Latvia,LVA,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,47.3,49.3,50.8,51.7,52.2,52.6,53.2,53.9,54.7,..,54.9
+Latvia,LVA,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,38.2,41.5,44.4,47.1,49.6,52,54.7,57.6,60.3,..,60.9
+Latvia,LVA,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,..,98.8465270996094,101.553329467773,100.304412841797,101.067176818848,99.1960220336914,99.1960220336914
+Latvia,LVA,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,..,99.9835815429688,102.43334197998,103.96354675293,99.0074691772461,97.6438674926758,97.6438674926758
+Latvia,LVA,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,17.4224343675418,16.6150271107668,16.1472024033045,16.4455166867712,16.6596372838465,16.5619389587074,16.6985645933014,16.8882323978336,..,16.8882323978336
+Latvia,LVA,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,15.4733492442323,14.8334624322231,14.6075854299662,14.7969441093687,15.2678194854492,15.4398563734291,15.5980861244019,15.7065484982767,..,15.7065484982767
+Latvia,LVA,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,52.697380065918
+Latvia,LVA,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,55.1879997253418
+Latvia,LVA,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.051,..,..,..,1.052,1.064,1.065,1.065
+Latvia,LVA,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,24.7,24.9,25.3,25.6,..,25.6
+Latvia,LVA,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,56.2,54.5,52.5,51,..,51
+Latvia,LVA,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,12.9,10.2,6,8.2,..,7.3
+Latvia,LVA,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,60.4,46.2,42.3,37.4,..,37.6
+Latvia,LVA,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,16,15.5,5.5,5.5,5.5
+Latvia,LVA,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,16,15.5,5.5,5.5,5.5
+Latvia,LVA,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,5.1,..,..,5.7
+Latvia,LVA,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,19.6,..,..,21.7
+Latvia,LVA,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,36.5552903739061,37.2192099147947,37.3638753285768,37.4346602332127,37.3260227752003,37.6122082585278,37.6076555023923,37.370753323486,..,37.370753323486
+Latvia,LVA,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,30.5489260143198,31.3323005422153,31.8813368381525,31.3228789706474,30.746520455504,30.3859964093357,30.0956937799043,30.0344657804037,..,30.0344657804037
+Poland,POL,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,22.6,..,23.1,..,..,..,..,..,..,26.6
+Poland,POL,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,25.7,..,26.3,..,..,..,..,..,..,28.7
+Poland,POL,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Poland,POL,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Poland,POL,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,22.6,17.4,16.8,19,19.6,18.3,14.4,11.2,9.9,9.5,10.9,9.7,10.2,10.2
+Poland,POL,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Poland,POL,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Poland,POL,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.6,7.4,8.2,8.7,9.8,10.3,10.2,10,9.6,9.6,9.9,10.4,10.9,10.9
+Poland,POL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.98,2.52,2.2,2.27,2.28,2.33,2.06,1.62,1.37,1.24,1.41,1.32,1.46,1.46
+Poland,POL,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,100.84076,..,109.18936
+Poland,POL,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,100.03319,..,109.03849
+Poland,POL,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Poland,POL,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Poland,POL,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,24.7877249999999
+Poland,POL,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,19.618034
+Poland,POL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.6,72.4,73.3,74.3,74.4,74.8,75.5,76.4,78,79.4,80.6,81.6,81.7,81.7
+Poland,POL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.9,66.6,66.6,67,66,66.5,66.5,67.6,69.7,70.8,72.1,73.5,73.7,73.7
+Poland,POL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,98.2519836425781
+Poland,POL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.2751693725586
+Poland,POL,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,7,4,3,2,..,2
+Poland,POL,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,51,35.2,27.8,21,18,15.5,13.3,11.3,7.3,5.9,4.7,3.8,3.5,3.4
+Poland,POL,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,64.2,45.4,36,27.9,24,20.1,17,13.8,8.8,7.1,5.6,4.5,4.2,4.1
+Poland,POL,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Poland,POL,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Poland,POL,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,13.3,14.6,15.8,16.9,17.8,18.6,19.6,20.7,21.9,..,22.2
+Poland,POL,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,7.4,8.9,10.6,12.3,14.1,16,18.2,20.6,23.2,..,23.7
+Poland,POL,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,39,41.1,42.9,44.3,45.4,46.5,47.8,49.2,50.8,..,51.1
+Poland,POL,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,41,44.3,47.4,50.3,53.1,56,59,62.1,65,..,65.6
+Poland,POL,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,..,..,..,93.3345031738281,100.466491699219,93.9502105712891,93.9502105712891
+Poland,POL,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,..,..,..,93.5991134643555,99.6437377929688,94.6985092163086,94.6985092163086
+Poland,POL,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,21.0768496955753,20.0649071987984,19.4018505412702,19.2827442827443,19.1958698372966,19.3582159870177,19.6497290504987,19.8472084140024,..,19.8472084140024
+Poland,POL,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,20.8383603153671,19.9951721918249,19.3284579696469,19.222972972973,19.0889653733834,19.1907030309375,19.4586245713239,19.6143582230129,..,19.6143582230129
+Poland,POL,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,53.9196319580078
+Poland,POL,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,49.6338005065918
+Poland,POL,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.056,..,..,..,1.056,1.056,1.056,1.056
+Poland,POL,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,36.2,31.4,27.3,23.8,..,23.3
+Poland,POL,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,45.6,41,37,33.8,..,33.1
+Poland,POL,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,5.5,5.2,4.8,4.1,..,4.3
+Poland,POL,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,29,31.1,33.4,28.4,..,28.9
+Poland,POL,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,52,39,37,37,37
+Poland,POL,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,52,39,37,37,37
+Poland,POL,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,4.6,..,..,4.7
+Poland,POL,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,18.7,..,..,19.2
+Poland,POL,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,30.2011728065991,31.1608196545435,31.8733453906844,32.1153846153846,32.3216520650814,32.2698005548867,32.0505772402419,31.890010988436,..,31.890010988436
+Poland,POL,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,27.8836171824584,28.7791009548332,29.3963460983985,29.3788981288981,29.3935127242386,29.181280427158,28.8410691379355,28.6484223745487,..,28.6484223745487
+Ukraine,UKR,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,..,23.9,..,..,..,23
+Ukraine,UKR,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,25.9
+Ukraine,UKR,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,0,1,10,28,52,58
+Ukraine,UKR,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,0,1,8,25,46,51
+Ukraine,UKR,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,21.008,16.059,15.135,15.328,15.147,14.587,12.6,9.6,7.8,9,10.8,10.7,8.7,8.7
+Ukraine,UKR,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Ukraine,UKR,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Ukraine,UKR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,8.675,8.097,8.832,9.988,11.432,11.77,12.1,15.4,15.4,16.6,15.2,14.9,14.8,14.8
+Ukraine,UKR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.24,1.99,2.09,2.02,1.95,2.06,1.844,1.397,1.11,1.213,1.443,1.506,1.301,1.301
+Ukraine,UKR,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ukraine,UKR,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ukraine,UKR,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ukraine,UKR,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ukraine,UKR,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,20.7295869999999
+Ukraine,UKR,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,15.3769259999999
+Ukraine,UKR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.091,73.092,74.237,74.249,73.739,74.183,74.82,72.54,73.53,73.97,75.5,76.25,76.72,76.72
+Ukraine,UKR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.641,66.871,66.424,65.24,64.131,65.186,65.6,61.22,62.1,62.23,65.28,66.37,66.69,66.69
+Ukraine,UKR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.9581985473633
+Ukraine,UKR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.9939422607422
+Ukraine,UKR,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,35,33,25,21,..,19
+Ukraine,UKR,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,22,19.9,16.7,14.6,15.2,13.9,11,8.9,7.2,6.6,6.4
+Ukraine,UKR,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,27.6,25.1,21.1,18.4,19.3,17.5,13.9,11.2,9,8.1,7.9
+Ukraine,UKR,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,0.1,0.1,0.4,0.5,0.3,0.2,0.2,0.1
+Ukraine,UKR,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,0.1,0.4,0.7,0.4,0.2,0.1,0.1,0.1
+Ukraine,UKR,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,16.5,18,19.5,20.8,21.8,22.5,23.4,24.4,25.5,..,25.7
+Ukraine,UKR,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,6.3,7.8,9.5,11.3,13,14.8,16.8,19,21.5,..,22
+Ukraine,UKR,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,45.1,47.3,49.3,50.8,51.8,52.5,53.3,54.3,55.3,..,55.5
+Ukraine,UKR,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,36.4,39.7,42.9,46.1,48.9,51.6,54.6,57.7,60.8,..,61.4
+Ukraine,UKR,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,..,96.0045013427734,117.372001647949,96.1178665161133,..,..,103.594741821289
+Ukraine,UKR,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,..,96.1057891845703,118.044593811035,96.1927185058594,..,..,101.648910522461
+Ukraine,UKR,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,21.1145572786393,19.3899183417085,18.1304322576899,17.9224994134668,17.6998185783884,17.2055329260014,16.6731813246471,16.1806208842897,..,16.1806208842897
+Ukraine,UKR,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,17.1925962981491,15.9292556532663,15.1125650903037,15.1266911707203,15.1558391259148,15.0033944331297,14.6406080347448,14.124445639027,..,14.124445639027
+Ukraine,UKR,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,34.2930297851563
+Ukraine,UKR,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,46.8005676269531
+Ukraine,UKR,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.058,..,..,..,1.065,1.064,1.062,1.062
+Ukraine,UKR,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,15.4,14.8,14.2,13.7,..,13.5
+Ukraine,UKR,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,60.6,56,52.1,48.2,..,47.4
+Ukraine,UKR,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,12.3,10.7,8.4,6.8,..,6.3
+Ukraine,UKR,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,65.1,62,48.9,42,..,41.1
+Ukraine,UKR,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,35,28,8,6.5,6.5
+Ukraine,UKR,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,35,28,8,6.5,6.5
+Ukraine,UKR,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,6.4,..,..,4
+Ukraine,UKR,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,23.8,..,..,14.1
+Ukraine,UKR,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,33.1785892946473,34.638033919598,35.5291430341277,35.6006099945257,35.8807101942638,36.5177359131025,37.1900108577633,37.7727008018636,..,37.7727008018636
+Ukraine,UKR,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,28.5142571285643,30.0427920854271,31.2278596178788,31.3501994212872,31.263632101433,31.2733367277665,31.4961997828447,31.9222326748197,..,31.9222326748197
+Russian Federation,RUS,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,..,..,24.4,..,..,24.4
+Russian Federation,RUS,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,..,..,27,..,..,27
+Russian Federation,RUS,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Russian Federation,RUS,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Russian Federation,RUS,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,23.788,17.676,14.672,15.511,15.9,16.6,13.4,9.3,8.7,10.2,12.5,13.3,11.5,11.5
+Russian Federation,RUS,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Russian Federation,RUS,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100
+Russian Federation,RUS,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,8.304,8.131,8.85,9.907,11,11.3,11.2,15,15.3,16.1,14.2,13,12.4,12.4
+Russian Federation,RUS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.52,2.13,1.99,1.98,1.89,2.05,1.892,1.337,1.195,1.294,1.567,1.777,1.57,1.57
+Russian Federation,RUS,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,93.87753
+Russian Federation,RUS,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,102.80942
+Russian Federation,RUS,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Russian Federation,RUS,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Russian Federation,RUS,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,22.070734
+Russian Federation,RUS,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,16.133724
+Russian Federation,RUS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.243,72.219,73.44,73.23,72.96,73.24,74.3,71.59,72.26,72.47,74.88,76.71,77.81,77.81
+Russian Federation,RUS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.067,63.433,63.08,62.48,61.39,62.73,63.73,58.12,59.03,58.92,63.09,65.92,67.75,67.75
+Russian Federation,RUS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,..,..,99.6477813720703,..,99.7341079711914,99.7341079711914
+Russian Federation,RUS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,..,..,99.7283096313477,..,99.7251586914063,99.7251586914063
+Russian Federation,RUS,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,56,42,25,18,..,17
+Russian Federation,RUS,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,26.9,22.1,19.7,17.8,15.6,15.9,14.2,10.3,7.8,6.3,4.8,4.4
+Russian Federation,RUS,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,35.2,29.3,26.4,24.2,21.1,21.2,18.7,13.4,9.9,7.8,5.9,5.4
+Russian Federation,RUS,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Russian Federation,RUS,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Russian Federation,RUS,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,19.6,21.2,22.6,23.5,24.1,24.6,25.2,26,26.7,..,26.9
+Russian Federation,RUS,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,5.4,6.6,7.9,9.2,10.5,12,13.7,15.6,17.6,..,18.1
+Russian Federation,RUS,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,48.4,50.5,52.1,53,53.5,53.8,54.2,54.8,55.5,..,55.7
+Russian Federation,RUS,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,35.4,38.2,40.9,43.3,45.7,48.2,51.2,54.4,57.6,..,58.2
+Russian Federation,RUS,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,92.147216796875,..,..,..,100.887466430664,101.441780090332,101.441780090332
+Russian Federation,RUS,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,92.1266937255859,..,..,..,99.7355194091797,102.46061706543,102.46061706543
+Russian Federation,RUS,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,16.2188889530519,14.972304476572,14.0851440104219,14.0334584998856,13.9816303725709,13.9071651393357,13.755935885474,13.6222888429112,..,13.6222888429112
+Russian Federation,RUS,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,14.0295663221112,13.1043372234802,12.5211780032265,12.5947160872667,12.6686380856341,12.6294873309109,12.5569218343105,12.3696322256471,..,12.3696322256471
+Russian Federation,RUS,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,34.5975646972656
+Russian Federation,RUS,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,38.1502494812012
+Russian Federation,RUS,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.056,..,..,..,1.059,1.059,1.058,1.058
+Russian Federation,RUS,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,21.2,21.9,22.5,23.3,..,23.4
+Russian Federation,RUS,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,68.3,64.8,61.7,58.9,..,58.3
+Russian Federation,RUS,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,16.5,16,12.5,9.9,..,9.4
+Russian Federation,RUS,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,93.5,92.5,71.7,57.8,..,55.9
+Russian Federation,RUS,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,..,..,10.8,10.1,10.1
+Russian Federation,RUS,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,..,..,10.8,10.1,10.1
+Russian Federation,RUS,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,7.3,..,..,5.8
+Russian Federation,RUS,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,26.1,..,..,18.7
+Russian Federation,RUS,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,37.7100537044523,38.662950705452,39.1625998150511,39.1535780137549,39.3161810798288,39.7143115199433,40.0416382347617,40.289799997185,..,40.289799997185
+Russian Federation,RUS,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,32.0414910203846,33.2604075944957,34.2310781713005,34.2182473990929,34.0335504619662,33.7490360098101,33.6455040454539,33.7182789342566,..,33.7182789342566
+Middle income,MIC,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,34.4472384300246,38.5655532038454,35.9455612468782,31.7435012528485,29.5638637873474,29.4026751508759,27.4609702969389,24.3477343721084,22.1008576843538,20.7560076775975,19.7719354421747,18.8891061852696,17.995226569527,17.995226569527
+Middle income,MIC,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,20.1848137123327,13.8424348548598,12.1942981456786,11.2115560298705,10.0735434989945,9.50841560324872,8.81245995166979,8.48542237897644,8.12056588351513,7.85262535926294,7.55307781461674,7.25606885036857,7.19587500797273,7.19587500797273
+Middle income,MIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,5.62688188957664,5.76759695052518,5.4400945444589,4.66296001613623,4.04782498784612,3.80665298732063,3.39763573828325,2.90356033850432,2.67506043343131,2.53570237694997,2.43698148409977,2.37227023917328,2.3351777450964,2.3351777450964
+Middle income,MIC,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,49.1349217640437,52.860726175493,57.3381637376436,60.2359287089088,62.731418059487,64.5180082480541,65.994130939739,67.2187342218647,68.5428499136664,69.9446435862338,71.7617478101103,73.4077979797048,74.1109199273252,74.1109199273252
+Middle income,MIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,46.2150524753937,49.7428099080388,54.0299741946133,57.0322620380123,59.1771370143235,60.7988071838955,62.1477564151046,63.0119888269052,64.4452564607912,65.9302085287557,67.5615679979921,69.0433108846873,69.7491841229152,69.7491841229152
+Middle income,MIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,49.4292984008789,52.101131439209,56.7620391845703,62.381031036377,66.1634826660156,72.9957427978516,75.3656921386719,78.9072494506836,81.111198425293,82.2600021362305,82.656852722168
+Middle income,MIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,70.8216171264648,72.5610504150391,75.2981262207031,78.710693359375,81.2669372558594,85.3248825073242,86.9158172607422,88.1244888305664,89.2985763549805,89.8914031982422,90.1096496582031
+Middle income,MIC,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,301,260,217,190,..,183
+Middle income,MIC,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,..,..,..,61.8056702716132,57.117781426584,49.8341735237127,41.4705140757662,33.9866393944133,28.2649740099922,25.6058579254598,24.8297913290513
+Middle income,MIC,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,..,..,..,69.5084763865899,63.7002546919892,55.3123512339231,46.1012086228619,38.1294804713339,32.2370790916939,29.4542697553338,28.6526679835935
+Middle income,MIC,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Middle income,MIC,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,18.0297430537861,19.7635946998416,21.6022958184249,23.5289827736479,25.579972657581,27.798205787706,30.2842401382892,32.9497723744569,35.7073898412825,..,36.2897455789431
+Middle income,MIC,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,12.8740664560822,14.4560747900128,16.2263769334987,18.2235865743671,20.4263335296858,23.003380080977,25.9379783442644,29.1520910594586,32.6513058320569,..,33.3727924734653
+Middle income,MIC,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,68.0739898681641,72.7127380371094,76.6504821777344,77.4096527099609,79.2171020507813,80.2657623291016,85.9115219116211,90.7027130126953,91.3180618286133,92.1144714355469,92.5725402832031
+Middle income,MIC,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,78.9388427734375,82.9070129394531,86.8609619140625,86.8058700561523,87.2830276489258,86.3408279418945,88.4886703491211,91.4272232055664,91.1054534912109,92.0227432250977,92.4128494262695
+Middle income,MIC,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,33.7403616018415,32.4152043389674,31.2274160815319,29.9775685725463,28.8032065877722,27.3271988768887,25.8446580377107,24.3702479545957,..,24.3702479545957
+Middle income,MIC,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,34.9733587948381,33.6659600052817,32.3768895647459,31.24529093305,29.9548368992681,28.3773741156234,26.749138153452,25.141267991099,..,25.141267991099
+Middle income,MIC,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,39.0881881713867
+Middle income,MIC,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,46.9855308532715
+Middle income,MIC,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.07517517721152,..,..,..,1.08254499157515,1.07874316882554,1.07614560193966,1.07614560193966
+Middle income,MIC,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,7.78959925862426,6.10230101120502,4.91678581452025,4.03030412972465,..,3.88835898880374
+Middle income,MIC,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,45.8122456172868,42.4407855507385,39.5380492291031,37.0175576271662,..,36.5611418713171
+Middle income,MIC,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,10.6467555386578,10.1487626135975,9.20199525963918,8.29626715502664,..,8.17702193256725
+Middle income,MIC,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,15.3031887016528,14.3999676841737,13.1331368240344,12.5448168866767,..,12.4250194533371
+Middle income,MIC,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,59.4325842696629,45.1263736263736,29.3735294117647,24.3196078431373,23.559068627451
+Middle income,MIC,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,59.3426966292135,45.0274725274725,29.2852941176471,24.2313725490196,23.4708333333333
+Middle income,MIC,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,2.05249987254926,..,..,1.96614334605124
+Middle income,MIC,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,9.44467624823275,..,..,9.67126542678818
+Middle income,MIC,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,15.5330264817115,16.8557096548391,18.0251588680698,19.2828017293376,20.4839579848763,21.9749560314165,23.4917586002541,24.9802372233299,..,24.9802372233299
+Middle income,MIC,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,15.7532531216089,17.0631260009118,18.3705354856524,19.494338765066,20.7579985280834,22.3204709760714,23.9144452085831,25.5082468309754,..,25.5082468309754
+Low income,LIC,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,0,3.8173083711883,21.3901827885846,49.8715700223584,66.7123119475137,72.6871787459626
+Low income,LIC,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,0,4.37400101630711,21.7481978578689,38.4633754049012,52.9435013111731,58.7076704573583
+Low income,LIC,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,47.548755833507,47.3446744337847,47.316425525431,46.4673233948683,46.0351000915186,45.6875949137635,44.6780748884887,43.5733079522925,42.0696149903718,40.2005204539482,38.0715049991395,35.8945965388908,34.6211430708124,34.6211430708124
+Low income,LIC,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,24.8380681612941,22.9148842110736,20.9960529894765,19.3407639313343,18.0574873522709,16.7840271794514,16.1752180550429,15.2222204909943,13.5874313105069,11.5705038775134,9.64566493896093,8.3206596926551,7.76818143483764,7.76818143483764
+Low income,LIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,6.58151715907333,6.604636271252,6.71510771596463,6.68843054136221,6.67459255342832,6.61445811692735,6.43793875242148,6.23536047329459,5.96451971321453,5.6356172089456,5.24647109005903,4.84169086930712,4.60430325268313,4.60430325268313
+Low income,LIC,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,41.1978032721103,43.4314123786239,45.80487222078,47.9714994940461,49.7416377089896,51.4507413608119,52.4846162123801,53.4676021064017,55.2307330864319,58.2133808180489,61.6241357593927,64.2420436731328,65.4104671518586,65.4104671518586
+Low income,LIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,38.2778724028646,40.4583480310967,42.8552793599649,45.0374309363099,46.8046403727954,48.3988064616559,49.1731558291476,50.0512309160217,51.9550048798306,55.0522589424116,58.1572026974076,60.4787117930213,61.5953910116912,61.5953910116912
+Low income,LIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,36.6169815063477,37.9670600891113,41.5159187316895,43.5250015258789,44.9123382568359,50.2316093444824,52.9132690429688,53.5078392028809
+Low income,LIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,57.4029884338379,58.4564399719238,60.3124885559082,63.6256484985352,63.9268417358398,67.2532196044922,68.3265609741211,68.6208114624023
+Low income,LIC,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,838,697,567,483,..,455
+Low income,LIC,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,..,..,..,101.1,92.9,81.1,67.2,56.7,48.2,44.3,43.2
+Low income,LIC,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,..,..,..,117.4,108.6,95.7,80.1,68,58.4,53.8,52.4
+Low income,LIC,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,1.81748391292957,2.11216208559149,1.83131735625594,1.47913770111859,1.33341756838069,1.18496465676301,1.07055848851284,1.02592393741904
+Low income,LIC,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,0.661046459985351,0.652743567392996,0.555726827817184,0.52472297416446,0.532670395448082,0.519201070931064,0.499966934878587,0.494470897136173
+Low income,LIC,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,12.9026958128599,14.8083144383155,16.9797714853847,19.2970316346026,21.6936742841666,24.3724555691805,27.2162446560519,30.4852917227466,33.4254555713422,..,34.0549291312229
+Low income,LIC,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,8.22513714853551,9.42394477469447,10.8526131482498,12.4043487950352,14.0807938292932,15.8078430020682,17.6105477691911,19.6880951880058,21.4409260663284,..,21.8334140406922
+Low income,LIC,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,29.8167495727539,34.1075592041016,36.3192291259766,34.7938385009766,34.9809799194336,37.6407089233398,48.4822311401367,58.6473388671875,61.3200492858887,62.6909294128418,62.783878326416
+Low income,LIC,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,47.1296501159668,51.7305297851563,51.2776298522949,49.1281814575195,48.0249404907227,51.2724304199219,63.012020111084,68.986213684082,66.4597930908203,66.9669494628906,66.9218063354492
+Low income,LIC,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,40.0895596155286,39.2161845788111,38.1934644998547,37.3324959261096,36.7620181302813,36.0189782712401,35.1664785856294,34.3610911873268,..,34.3610911873268
+Low income,LIC,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,38.9737187461288,38.1702397028438,37.2543312691132,36.5691946178547,36.0322638770919,35.4317634731597,34.6095484005844,33.800001534669,..,33.800001534669
+Low income,LIC,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,45.8729515075684
+Low income,LIC,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,49.3529434204102
+Low income,LIC,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.03659400969227,..,..,..,1.0373363900432,1.0374711802831,1.03738974550236,1.03738974550236
+Low income,LIC,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Low income,LIC,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,4.60253154098919,4.44888516898765,4.1869118435325,4.05370794638171,..,4.00654308368898
+Low income,LIC,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,10.1328640525323,9.95829658573665,9.4279752166191,9.31043440861744,..,9.32806601926406
+Low income,LIC,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,64.48,40.5769230769231,25.9821428571429,25.125,24.3035714285714
+Low income,LIC,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,64.24,40.3461538461538,25.7678571428571,24.9464285714286,24.125
+Low income,LIC,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,1.02717766998702,..,..,0.877667262795587
+Low income,LIC,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,5.49652717139257,..,..,5.10298224073484
+Low income,LIC,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,10.4607595984452,11.2731561217698,12.2461472454324,13.0021406438396,13.4962249899908,14.1225340107344,14.9263314051043,15.7029066161656,..,15.7029066161656
+Low income,LIC,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,10.4759620398975,11.3404195965752,12.3060569855997,13.0961688121962,13.709493002636,14.4267242448658,15.2976416086819,16.1360006618385,..,16.1360006618385
+High income,HIC,"Age at first marriage, female",SP.DYN.SMAM.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Age at first marriage, male",SP.DYN.SMAM.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,21.5696140789777,19.9624919835423,18.5433105052708,16.2231457688172,15.614365263708,14.5808110692642,14.2645742148913,12.7855209362866,12.3068356346211,11.6717145692446,11.5817249810737,10.947019760898,10.300919928459,10.300919928459
+High income,HIC,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,9.73674956887463,9.53944744146205,9.50439912450247,9.16226718254798,9.03236442462961,8.88851424639844,8.75831524673055,8.77799325032748,8.50621304975667,8.42281896470086,8.34805010107602,8.76566163650716,8.94750802436321,8.94750802436321
+High income,HIC,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.02127997165847,2.8272139374443,2.54535003698427,2.11456425145838,1.98174477394248,1.85622080523958,1.85191784807801,1.70783614791855,1.70096075181523,1.66850425019507,1.70301752588347,1.66419434124254,1.60031137074684,1.60031137074684
+High income,HIC,"Gross graduation ratio, primary, female (%)",SE.PRM.CMPL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Gross graduation ratio, primary, male (%)",SE.PRM.CMPL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,Length of paid parental leave for father (days),SH.PAR.LEVE.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,Length of paid parental leave for mother (days),SH.PAR.LEVE.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.3892539987085,72.6834590852766,73.7891626506437,75.3256432300237,76.5529480568017,77.7233919295517,78.7687785755257,79.5377728729008,80.5662848542848,81.5263900427087,82.5679323899194,83.1178704424471,83.350379294521,83.350379294521
+High income,HIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.6775932830651,66.5764452221485,67.3444746379905,68.8366830232215,69.7867963392886,70.9864957013445,71.9932040052902,72.9034247326284,74.5015439859617,75.7044025356083,77.0082898998926,77.8384212876417,78.1349191868591,78.1349191868591
+High income,HIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,13,12,11,11,..,11
+High income,HIC,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,..,..,..,9.6,7.5,6.2,5.4,4.7,4.2,4,3.9
+High income,HIC,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,..,..,..,11.8,9.1,7.4,6.5,5.6,4.9,4.7,4.6
+High income,HIC,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+High income,HIC,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS,..,..,..,32.8721128602063,35.1148892359608,37.3073338258942,39.5347421476928,41.8329791405202,44.1867917413284,46.5104766171761,48.805251423579,51.0024637065013,..,51.4465688446388
+High income,HIC,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS,..,..,..,38.1195608056095,41.2179426303043,44.3144232547989,47.3634955656637,50.4159657692413,53.4683236326823,56.5232739022203,59.4550809933942,62.1887755404902,..,62.7037188146051
+High income,HIC,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..,..,..,94.7376937866211,96.2911987304688,96.5062103271484,97.5830230712891,98.7860717773438,97.0246200561523,97.0125732421875
+High income,HIC,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..,..,..,96.0726165771484,97.3148880004883,97.3404006958008,98.2997589111328,99.1694717407227,99.3444290161133,99.2886505126953
+High income,HIC,"Rural population, female (% of total)",SP.RUR.TOTL.FE.ZS,..,..,..,..,14.5720641141001,13.867775889407,13.1417455323189,12.4817693784682,11.9442404286334,11.0191789468249,10.2473977790128,9.61028107341082,..,9.61028107341082
+High income,HIC,"Rural population, male (% of total)",SP.RUR.TOTL.MA.ZS,..,..,..,..,14.5119780264424,13.835756619779,13.1298621911973,12.5262815358751,11.9988914252396,11.1521967452726,10.4478886201867,9.8715698639327,..,9.8715698639327
+High income,HIC,"Saved any money in the past year, female  (% age 15+)",fin18.t.d.2,..,..,..,..,..,..,..,..,..,..,..,..,..,69.2261810302734
+High income,HIC,"Saved any money in the past year, male  (% age 15+)",fin18.t.d.1,..,..,..,..,..,..,..,..,..,..,..,..,..,73.6527099609375
+High income,HIC,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.05671475417599,..,..,..,1.0524357796314,1.05151345585488,1.05135568227097,1.05135568227097
+High income,HIC,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,26.3846081569311,23.8138852962344,21.5173568594248,19.5609856771255,..,19.2163602748153
+High income,HIC,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,41.1301803829585,36.7657962131004,33.0114509760976,29.8744849310663,..,29.2978094772458
+High income,HIC,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,7.36299953002935,7.58620289468586,7.75117630611996,7.59132215570794,..,7.49360299619716
+High income,HIC,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,21.6403318893358,21.7382675083103,22.1520859810763,20.9869085956978,..,20.8830523367637
+High income,HIC,"Time required to start a business, female (days)",IC.REG.DURS.FE,..,..,..,..,..,..,..,..,..,28.0918367346939,18.7818181818182,12.2375,12.1926229508197,11.005737704918
+High income,HIC,"Time required to start a business, male (days)",IC.REG.DURS.MA,..,..,..,..,..,..,..,..,..,27.969387755102,18.6181818181818,12.0875,12.0614754098361,10.8909836065574
+High income,HIC,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,4.12528185589424,..,..,4.05174593645916
+High income,HIC,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,15.5982109677634,..,..,15.6891355325743
+High income,HIC,"Urban population, female (% of total)",SP.URB.TOTL.FE.ZS,..,..,..,..,36.4719626593212,37.1252858880707,37.766669557905,38.3443489345692,38.8790861685924,39.6981226125821,40.2829702670693,40.7495086732235,..,40.7495086732235
+High income,HIC,"Urban population, male (% of total)",SP.URB.TOTL.MA.ZS,..,..,..,..,34.4439952001363,35.1711816027433,35.9617227185789,36.6476001510875,37.1777819775346,38.1305016953204,39.0217433337312,39.7686403894329,..,39.7686403894329
