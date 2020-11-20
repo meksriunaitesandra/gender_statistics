@@ -3,7 +3,7 @@
 ### Structure of project documents 
 
 * File with project code is named 'gender_differences.ipynb'
-* Data is available in directory 'data'
+* Data is available in directory `data`
     * 'Data1.csv', 'Data2.csv' - data
     * 'Metadata.csv', 'Metadata2.csv' - metadata
    
