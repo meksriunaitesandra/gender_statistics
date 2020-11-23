@@ -30,11 +30,11 @@ _Link: https://databank.worldbank.org/source/gender-statistics_
     * Alcohol consumption
 
 #### Structure of project
-I. Data import
-II. Data cleaning and preparing for visualisations
-III. How do Lithuania look among other countries by general indicators?
-IV. What are the differences between men and woman in various countries?
-V. Conclusions
+**I.** Data import
+**II.** Data cleaning and preparing for visualisations
+**III.** How do Lithuania look among other countries by general indicators?
+**IV.** What are the differences between men and woman in various countries?
+**V.** Conclusions
 
 
 Data in Sections III and IV is compared visually in lineplots and scatterplots. Examples are shown in Figures No. 1 and No. 2 below.
@@ -42,6 +42,7 @@ Data in Sections III and IV is compared visually in lineplots and scatterplots. 
 ![life expectancy total](/img/LEb_total.png)
 
 Figure 1. Life expectancy at birth (lineplot example)
+
 
 ![life expectancy gender](/img/LEb_gender.png)
 
