@@ -38,8 +38,13 @@ V. Conclusions
 
 
 Data in Sections III and IV is compared visually in lineplots and scatterplots. Examples are shown in Figures No. 1 and No. 2 below.
+
 ![life expectancy total](/img/LEb_total.png)
+
 Figure 1. Life expectancy at birth (lineplot example)
 
+![life expectancy gender](/img/LEb_gender.png)
+
+Figure 2. Life expectancy at birth by gender (scatterplot example)
 
   
