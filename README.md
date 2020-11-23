@@ -3,10 +3,8 @@
 ### Structure of project documents 
 
 * File with project code is named 'gender_differences.ipynb'
-* Data is available in directory `data`
-    * 'Data1.csv', 'Data2.csv' - data
-    * 'Metadata.csv', 'Metadata2.csv' - metadata
-   
+* Data and metadata files are available in directory `data`
+       
 
 ### About the data
 #### Source
@@ -16,13 +14,15 @@ _Link: https://databank.worldbank.org/source/gender-statistics_
 
 
 #### Contents of data
-* Year (every 5 year from 1960 to 2015, plus 2018 and / or last available year)
+* Year (every 5 year from 1960 to 2015, plus last year available)
 * Countries (3 Baltic countries and Ukraine, Russian Federation, Poland; also groups of low, middle and high income countries)
-* Indicators (in general population and by gender):
-    * Life expectancy (at birth and at 60)
+* Indicators (in general population and/or by gender):
+    * Life expectancy (at birth) 
     * Birth and death rates, crude
+    * Natural population change (calculated)
     * Fertility
     * Smoking prevalence
     * Alcohol consumption
+
 
   
