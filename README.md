@@ -39,12 +39,13 @@ _Link: https://databank.worldbank.org/source/gender-statistics_
 
 Data in Sections III and IV is compared visually in lineplots and scatterplots. Examples are shown in Figures No. 1 and No. 2 below.
 
-![life expectancy total](/img/LEb_total.png)
+![life expectancy total](img/general_Life%20expectancy%20at%20birth%2C%20total%20(years).png)
 
 Figure 1. Life expectancy at birth (lineplot example)
 
 
-![life expectancy gender](/img/LEb_gender.png)
+
+![life expectancy gender](img/scatter_Life%20expectancy%20at%20birth%20by%20gender%20(last%20year%20available).png)
 
 Figure 2. Life expectancy at birth by gender (scatterplot example)
 
